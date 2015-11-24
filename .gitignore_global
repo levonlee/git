@@ -64,3 +64,6 @@ fabric.properties
 
 # JetBeans. 
 
+# Vagrant
+.vagrant/
+# Vagrant.
