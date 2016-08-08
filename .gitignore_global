@@ -12,6 +12,9 @@
 # My Temp Folders
 mydbdump/
 
+# Docker
+docker-compose.yml
+
 # DW Dreamweaver added files
 _notes
 dwsync.xml
