@@ -13,7 +13,7 @@
 mydbdump/
 
 # Docker
-docker-compose.yml
+# docker-compose.yml
 
 # DW Dreamweaver added files
 _notes
