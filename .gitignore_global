@@ -1,7 +1,7 @@
 # Place this global ignore file in
 # Windows c:\Users\your_name\
 
-# In your directory run below to see what files should be ignored
+# In your directory run below to see what files should be ignored but already commited
 # git ls-files -ci --exclude-standard
 # Then run this to remove from commit (back to staged) without removing them from disk
 # git ls-files -ci --exclude-standard -z | xargs -0 git rm --cached
